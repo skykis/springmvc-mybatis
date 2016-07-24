@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="mock:///TUserMapper.xml" dialect="MySQL" />
+    <file url="mock:///TUserMapper.xml" dialect="GenericSQL" />
+    <file url="mock:///TUserMapper.xml" dialect="Oracle" />
+    <file url="mock:///TUserMapper.xml" dialect="DB2" />
+    <file url="mock:///TUserMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/springmvcMaven/mapper/TUserMapper.xml" dialect="GenericSQL" />
+  </component>
+</project>
